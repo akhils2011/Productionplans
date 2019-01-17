@@ -1,2 +1,3 @@
 # Productionplans
 athakur2
+A manufacturing manager is in charge of minimizing the total costs (raw materials, labor and storage costs) of the following four months. In the following table can be found the cost of raw materials of one unit of final product, the demand of final product and the working hours available for each month. Labor costs are of $12 per hour, and only worked hours are payed. Each unit of final product needs 30 minutes of labor. Storage costs are equal to $2 for each unit stored at the end of the month. Any unit produced at a given month can be used to cover the demand of the same month, or be stored to cover the demand of months to come. At the beginning of month 1 there is no stock, and there are no minimum stock requirements for any month.
